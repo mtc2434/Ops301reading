@@ -14,3 +14,6 @@ There are four octets, creating a 32 bit address.
 
 ## How many IP addresses are in the CIDR block 10.0.0.0/24?
 - 256 IP addresses. This is where the point I brought up earlier comes. This is where the 2 addresses are reserved, so it's more like 254
+
+### Sources
+(CIDR Block Notation Explained in 2 Minutes, Michael Nicholas, https://medium.com/@ethicalentrepreneur/cidr-block-notation-explained-in-2-minutes-1010ec0dbc15) 
